@@ -1,0 +1,10 @@
+.display {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.select {
+  margin: 0 1vw;
+}
+
